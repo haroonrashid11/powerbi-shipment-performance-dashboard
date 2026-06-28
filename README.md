@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project showcases an interactive Power BI dashboard developed to analyze shipment performance for CocoaCraft Chocolates over a 13-month period from **01-Feb-2023 to 28-Feb-2024**.
+This project showcases an interactive Power BI dashboard developed to monitor shipment operations, sales performance, profitability, and operational efficiency for CocoaCraft Chocolates over a 13-month period from **01-Feb-2023 to 28-Feb-2024**.
 
 The dashboard provides business stakeholders with a centralized view of shipment activity, sales performance, profitability, product performance, and salesperson contribution across multiple geographies.
 
