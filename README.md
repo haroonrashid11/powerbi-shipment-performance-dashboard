@@ -118,7 +118,7 @@ The dashboard enables business users to quickly identify insights such as:
 
 # Data Model
 
-![Data Model](screenshots/DataModel.png)
+![Data Model](screenshots/datamodel.png)
 
 The solution follows a **Star Schema** architecture consisting of:
 
@@ -144,7 +144,7 @@ This model improves maintainability, scalability, and reporting performance.
 
 # Dataset Preview
 
-![Dataset Preview](screenshots/Dataset_Preview.png)
+![Dataset Preview](screenshots/dataset_preview.png)
 
 The dataset contains shipment-level transactional data, including:
 
