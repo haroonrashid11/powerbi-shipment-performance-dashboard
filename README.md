@@ -214,12 +214,12 @@ The dataset contains shipment-level transactional data, including:
 ```text
 cocoacraft-shipment-performance-dashboard
 │
-├── Dataset
-├── Documentation
-├── Images
-├── PowerBI
-|--screenshots
-└── README.md
+|-- Dataset
+|-- Documentation
+|-- Images
+|-- PowerBI
+|-- screenshots
+|--  README.md
 ```
 
 ---
