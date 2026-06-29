@@ -23,7 +23,7 @@ Designed for business stakeholders, the dashboard consolidates key operational m
 
 # Dashboard Preview
 
-![Dashboard Overview](images/Dashboard_Overview.png)
+![Dashboard Overview](screenshots/Dashboard_Overview.png)
 
 ---
 
@@ -118,7 +118,7 @@ The dashboard enables business users to quickly identify insights such as:
 
 # Data Model
 
-![Data Model](Images/DataModel.png)
+![Data Model](screenshots/DataModel.png)
 
 The solution follows a **Star Schema** architecture consisting of:
 
@@ -144,7 +144,7 @@ This model improves maintainability, scalability, and reporting performance.
 
 # Dataset Preview
 
-![Dataset Preview](Images/Dataset_Preview.png)
+![Dataset Preview](screenshots/Dataset_Preview.png)
 
 The dataset contains shipment-level transactional data, including:
 
